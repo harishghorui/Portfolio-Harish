@@ -919,3 +919,10 @@ footer{
         display: none;
     }
 }
+
+@media only screen and (max-width: 375px) {
+    .skills-logo {
+        width:  3rem;
+        height: 3rem;
+    }
+}
