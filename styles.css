@@ -891,6 +891,14 @@ footer{
         font-size: 80px;
     }
 
+    .project-number-right {
+        right: 0.5rem;
+    }
+
+    .project-number-left {
+        left: 0.5rem;
+    }
+
     .skills-container {
         margin: 5rem auto;
         padding: 2.5rem;
